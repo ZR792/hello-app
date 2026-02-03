@@ -18,13 +18,13 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 ---
 
 ## 📁 Project Structure
-``
+```bash
 Hello app/
 │
 ├── app.py # Main Streamlit app file
 ├── requirements.txt # List of required Python packages
 └── README.md # This file
-``
+```
 
 ---
 
@@ -51,5 +51,5 @@ pip install streamlit
 
 # ▶️ How to Run the App
 streamlit run app.py
-
+```
 
